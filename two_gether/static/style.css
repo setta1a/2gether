@@ -1,0 +1,31 @@
+body {
+        margin: 0;
+        padding: 0;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 100vh;
+        background: rgb(0,0,0);
+        background: linear-gradient(135deg, rgba(0,0,0,1) 51%, rgba(255,62,0,1) 87%);
+    }
+    .main-block {
+        width: 60%;
+        text-align: center;
+    }
+    h6 {
+        color: #ff3e00;
+    }
+    h1 {
+        color: #ffffff;
+    }
+    .sub-heading {
+        color: rgba(255, 255, 255, 0.7);
+    }
+    .button {
+        background-color: #ffffff;
+        color: #000000;
+        padding: 10px 20px;
+        border: none;
+        border-radius: 5px;
+        cursor: pointer;
+    }
